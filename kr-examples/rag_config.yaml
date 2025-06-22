@@ -1,0 +1,68 @@
+# RAG Configuration for Llama Prompt Ops
+# This configuration optimizes your simple RAG prompt for Llama models
+
+# Model Configuration
+model:
+  name: "openrouter/meta-llama/llama-3.3-70b-instruct"
+  api_base: "https://openrouter.ai/api/v1"
+  temperature: 0.0
+  max_tokens: 2048
+  top_p: 0.95
+
+# Dataset Configuration - Using RAGJSONAdapter for context-question-answer format
+dataset:
+  adapter_class: "llama_prompt_ops.core.datasets.RAGJSONAdapter"
+  path: "your_rag_dataset.json"  # Path to your dataset file
+  
+  # Field mappings for your dataset
+  adapter_params:
+    question_field: "question"      # Field containing the question
+    context_field: "context"        # Field containing the context
+    golden_answer_field: "answer"   # Field containing the expected answer
+  
+  # Data splitting
+  train_size: 0.7
+  validation_size: 0.15
+  test_size: 0.15
+  shuffle: true
+  seed: 42
+
+# System Prompt Configuration
+system_prompt:
+  # Your current prompt (will be optimized)
+  text: |
+    Use the provided context to answer the question accurately and concisely.
+    
+    Context: {{context}}
+    
+    Question: {{question}}
+    
+    Answer:
+  
+  # Define inputs and outputs
+  inputs: ["question", "context"]  # Both question and context are inputs
+  outputs: ["answer"]              # Expected output field
+
+# Metric Configuration - for evaluating RAG performance
+metric:
+  class: "llama_prompt_ops.core.metrics.StandardJSONMetric"  # or create custom RAG metric
+  output_field: "answer"
+  strict_json: false  # Allow flexible answer formats
+
+# Optimization Settings
+optimization:
+  strategy: "llama"           # Use Llama-specific optimization
+  max_rounds: 3               # Number of optimization rounds
+  max_examples_per_round: 5   # Examples per round
+  bootstrap_examples: 4       # Few-shot examples to include
+  num_threads: 4              # Parallel processing threads
+  model_family: "llama"       # Target model family
+
+# Logging Configuration
+logging:
+  level: INFO
+  export_path: "results/rag_optimization_${TIMESTAMP}.json"
+
+# Output Configuration
+output:
+  prefix: "rag_optimized"     # Prefix for output files
