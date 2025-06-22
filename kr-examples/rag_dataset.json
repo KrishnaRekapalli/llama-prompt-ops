@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "context": "France is a country in Western Europe. Its capital and largest city is Paris, which is located in the north-central part of the country. Paris has been the capital since 987 AD and is home to approximately 2.2 million people.",
+    "answer": "Paris"
+  },
+  {
+    "question": "When was the Eiffel Tower built?",
+    "context": "The Eiffel Tower was constructed from 1887 to 1889 as the entrance arch to the 1889 World's Fair in Paris. It was designed by French engineer Gustave Eiffel and his company. The tower stands 330 meters tall and was the world's tallest structure until 1930.",
+    "answer": "The Eiffel Tower was built from 1887 to 1889."
+  },
+  {
+    "question": "What is photosynthesis?",
+    "context": "Photosynthesis is the process by which plants and other organisms convert light energy into chemical energy. This process occurs in chloroplasts and uses carbon dioxide and water to produce glucose and oxygen. The overall equation is: 6CO2 + 6H2O + light energy → C6H12O6 + 6O2.",
+    "answer": "Photosynthesis is the process by which plants convert light energy into chemical energy, using carbon dioxide and water to produce glucose and oxygen."
+  },
+  {
+    "question": "Who wrote Romeo and Juliet?",
+    "context": "Romeo and Juliet is a tragedy written by William Shakespeare early in his career, around 1594-1596. It tells the story of two young star-crossed lovers whose deaths ultimately unite their feuding families. The play is one of Shakespeare's most popular and frequently performed works.",
+    "answer": "William Shakespeare wrote Romeo and Juliet."
+  },
+  {
+    "question": "What is the speed of light?",
+    "context": "The speed of light in a vacuum is exactly 299,792,458 meters per second, commonly approximated as 3 × 10^8 m/s. This is a fundamental physical constant denoted by the letter 'c'. According to Einstein's theory of relativity, nothing can travel faster than the speed of light in a vacuum.",
+    "answer": "The speed of light is 299,792,458 meters per second."
+  },
+  {
+    "question": "What causes earthquakes?",
+    "context": "Earthquakes are caused by the sudden release of energy stored in the Earth's crust. This typically occurs when tectonic plates move along fault lines. As plates try to move past each other, friction can cause them to stick temporarily. When the stress overcomes the friction, the plates suddenly slip, releasing energy as seismic waves.",
+    "answer": "Earthquakes are caused by the sudden release of energy when tectonic plates move along fault lines, typically due to the buildup and release of stress."
+  },
+  {
+    "question": "How many continents are there?",
+    "context": "There are seven continents on Earth: Asia, Africa, North America, South America, Antarctica, Europe, and Australia (also called Oceania). This is the most widely accepted model, though some geographical and cultural perspectives recognize different numbers of continents.",
+    "answer": "There are seven continents: Asia, Africa, North America, South America, Antarctica, Europe, and Australia."
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "context": "Jupiter is the largest planet in our solar system. It has a mass more than two and a half times that of all other planets combined. Jupiter is a gas giant with a diameter of about 142,984 kilometers, making it roughly 11 times wider than Earth. It has at least 95 known moons.",
+    "answer": "Jupiter is the largest planet in our solar system."
+  },
+  {
+    "question": "When did World War II end?",
+    "context": "World War II ended in 1945. The war in Europe ended on May 8, 1945 (V-E Day) when Germany surrendered. The war in the Pacific ended on September 2, 1945 (V-J Day) when Japan formally surrendered aboard the USS Missouri in Tokyo Bay, following the atomic bombings of Hiroshima and Nagasaki.",
+    "answer": "World War II ended in 1945, with Germany surrendering on May 8 and Japan surrendering on September 2."
+  },
+  {
+    "question": "What is DNA?",
+    "context": "DNA (deoxyribonucleic acid) is a molecule that carries genetic instructions for the development, functioning, growth, and reproduction of all known living organisms. It consists of two strands forming a double helix structure, with four bases: adenine (A), thymine (T), guanine (G), and cytosine (C). DNA is found in the nucleus of cells.",
+    "answer": "DNA is a molecule that carries genetic instructions for living organisms, consisting of two strands in a double helix structure with four bases."
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "context": "The Mona Lisa was painted by Leonardo da Vinci between 1503 and 1519. It is a portrait of Lisa Gherardini, believed to be the wife of a Florentine merchant. The painting is renowned for the subject's enigmatic smile and is housed in the Louvre Museum in Paris.",
+    "answer": "Leonardo da Vinci painted the Mona Lisa."
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "context": "Gold is a chemical element with the symbol Au, derived from the Latin word 'aurum' meaning gold. It has atomic number 79 on the periodic table. Gold is a precious metal known for its resistance to corrosion and its use in jewelry, electronics, and as a store of value.",
+    "answer": "The chemical symbol for gold is Au."
+  },
+  {
+    "question": "How long is the Great Wall of China?",
+    "context": "The Great Wall of China is approximately 21,196 kilometers (13,171 miles) long when including all of its branches and secondary sections. The main wall built during the Ming Dynasty is about 8,850 kilometers long. The wall was built over many centuries by different dynasties to protect against invasions.",
+    "answer": "The Great Wall of China is approximately 21,196 kilometers long including all branches."
+  },
+  {
+    "question": "What is the boiling point of water?",
+    "context": "Water boils at 100 degrees Celsius (212 degrees Fahrenheit) at standard atmospheric pressure (1 atmosphere or 101.3 kPa). The boiling point can vary with altitude and atmospheric pressure. At higher altitudes where pressure is lower, water boils at lower temperatures.",
+    "answer": "Water boils at 100 degrees Celsius or 212 degrees Fahrenheit at standard atmospheric pressure."
+  },
+  {
+    "question": "Who invented the telephone?",
+    "context": "Alexander Graham Bell is credited with inventing the telephone. He received the first U.S. patent for the telephone on March 7, 1876. However, there is some controversy as Elisha Gray filed a caveat for a similar device on the same day. Bell made the first successful telephone call on March 10, 1876.",
+    "answer": "Alexander Graham Bell invented the telephone and received the first patent for it in 1876."
+  },
+  {
+    "question": "What is the smallest country in the world?",
+    "context": "Vatican City is the smallest country in the world by both area and population. It covers only 0.17 square miles (0.44 square kilometers) and has a population of around 800 people. Located entirely within Rome, Italy, Vatican City is the spiritual and administrative headquarters of the Roman Catholic Church.",
+    "answer": "Vatican City is the smallest country in the world."
+  },
+  {
+    "question": "What causes the seasons?",
+    "context": "Seasons are caused by Earth's axial tilt of approximately 23.5 degrees relative to its orbital plane around the Sun. As Earth orbits the Sun, different parts of the planet receive varying amounts of direct sunlight throughout the year. When the Northern Hemisphere is tilted toward the Sun, it experiences summer while the Southern Hemisphere experiences winter.",
+    "answer": "Seasons are caused by Earth's 23.5-degree axial tilt, which affects how much direct sunlight different parts of Earth receive as it orbits the Sun."
+  },
+  {
+    "question": "What is the deepest ocean trench?",
+    "context": "The Mariana Trench in the Pacific Ocean is the deepest known ocean trench on Earth. Its deepest point, called Challenger Deep, reaches approximately 11,034 meters (36,200 feet) below sea level. The trench is located near Guam and the Mariana Islands, formed by the subduction of the Pacific Plate beneath the Mariana Plate.",
+    "answer": "The Mariana Trench is the deepest ocean trench, with its deepest point reaching approximately 11,034 meters below sea level."
+  },
+  {
+    "question": "When was the first computer invented?",
+    "context": "The first electronic digital computer, ENIAC (Electronic Numerical Integrator and Computer), was completed in 1946 at the University of Pennsylvania. However, earlier mechanical computers like Charles Babbage's Analytical Engine (designed in the 1830s) and Konrad Zuse's Z3 (completed in 1941) also have claims to being 'first computers' depending on the definition used.",
+    "answer": "The first electronic digital computer, ENIAC, was completed in 1946, though earlier mechanical computers existed."
+  },
+  {
+    "question": "What is the largest mammal?",
+    "context": "The blue whale is the largest mammal and the largest animal ever known to have lived on Earth. Adult blue whales can reach lengths of up to 30 meters (98 feet) and weigh as much as 200 tons. They are found in oceans worldwide and feed primarily on small shrimp-like animals called krill.",
+    "answer": "The blue whale is the largest mammal."
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "context": "The currency of Japan is the yen, symbolized by ¥ and abbreviated as JPY in international markets. The yen was introduced in 1871 as part of Japan's modernization during the Meiji Restoration. It is one of the most traded currencies in the world and is considered a major reserve currency.",
+    "answer": "The currency of Japan is the yen."
+  },
+  {
+    "question": "How many bones are in the human body?",
+    "context": "An adult human body typically has 206 bones. However, babies are born with approximately 270 bones, many of which are made of cartilage. As children grow, some of these bones fuse together, reducing the total number. The exact number can vary slightly between individuals due to anatomical variations.",
+    "answer": "An adult human body has 206 bones."
+  },
+  {
+    "question": "What is the hardest natural substance?",
+    "context": "Diamond is the hardest natural substance known. It ranks 10 on the Mohs scale of mineral hardness, which makes it extremely useful for cutting tools and industrial applications. Diamond's hardness comes from its crystal structure, where each carbon atom is bonded to four other carbon atoms in a strong tetrahedral arrangement.",
+    "answer": "Diamond is the hardest natural substance."
+  },
+  {
+    "question": "Who wrote the novel '1984'?",
+    "context": "The novel '1984' was written by George Orwell and published in 1949. The book is a dystopian social science fiction novel that depicts a totalitarian society under constant surveillance. It introduced concepts like 'Big Brother,' 'doublethink,' and 'thoughtcrime' that have become part of popular culture.",
+    "answer": "George Orwell wrote the novel '1984'."
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "context": "Antarctica is technically the largest desert in the world, covering about 14 million square kilometers. However, the Sahara Desert in Africa is the largest hot desert, covering approximately 9 million square kilometers. Deserts are defined by their low precipitation rather than temperature.",
+    "answer": "Antarctica is the largest desert in the world, while the Sahara is the largest hot desert."
+  },
+  {
+    "question": "What gas do plants absorb from the atmosphere?",
+    "context": "Plants absorb carbon dioxide (CO2) from the atmosphere during photosynthesis. They use carbon dioxide along with water and sunlight to produce glucose for energy and oxygen as a byproduct. This process is essential for plant growth and also helps remove CO2 from the atmosphere.",
+    "answer": "Plants absorb carbon dioxide (CO2) from the atmosphere."
+  },
+  {
+    "question": "What is the study of earthquakes called?",
+    "context": "The study of earthquakes is called seismology. Seismologists are scientists who study earthquakes, seismic waves, and the structure of the Earth. They use instruments called seismometers to detect and measure earthquake activity. Seismology helps us understand earthquake mechanics and assess seismic hazards.",
+    "answer": "The study of earthquakes is called seismology."
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "context": "Mars is known as the Red Planet due to its reddish appearance, which comes from iron oxide (rust) on its surface. Mars is the fourth planet from the Sun and has two small moons, Phobos and Deimos. It has been a target for exploration due to evidence of past water activity and potential for past or present life.",
+    "answer": "Mars is known as the Red Planet."
+  },
+  {
+    "question": "What is the longest river in the world?",
+    "context": "The Nile River is generally considered the longest river in the world, flowing approximately 6,650 kilometers (4,130 miles) from its source in East Africa to its mouth at the Mediterranean Sea in Egypt. However, some recent studies suggest the Amazon River might be longer when including all its tributaries.",
+    "answer": "The Nile River is the longest river in the world at approximately 6,650 kilometers long."
+  },
+  {
+    "question": "What is the main ingredient in bread?",
+    "context": "The main ingredient in bread is flour, typically made from ground wheat. Flour provides the carbohydrates and proteins (including gluten) that give bread its structure. Other essential ingredients include water, yeast (for leavening), and often salt. Different types of flour can be used to make various kinds of bread.",
+    "answer": "The main ingredient in bread is flour, typically made from wheat."
+  }
+]
